@@ -1,0 +1,20 @@
+.mainPhoto {
+  background-image: url("../images/347efb0f-1032-4b40-94d1-3c1f585a7607.jfif");
+  background-size: cover;
+  color: white;
+  background-position: initial;
+}
+
+.divLine {
+  width: 100px;
+  height: 5px;
+  border: 3px solid orangered;
+  border-radius: 4px;
+  background-color: orangered;
+}
+.mainColor {
+  color: darkred;
+}
+.mainBackground {
+  background-color: darkred;
+}
